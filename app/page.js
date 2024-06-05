@@ -10,9 +10,6 @@ export default function Home() {
       <p className="text-base sm:text-lg xl:text-x text-gray-300 mb-6 text-center">
           Sorry for the inconvenience. Our website is currently undergoing maintenance for updates. Please bear with us.
       </p>
-      // <p className='text-white'>
-      // In the meantime, you can visit our alternate domain: <Link href='https://aniplay.lol'>https://aniplay.lol</Link>
-      // </p>
       {/* <p className='text-white'>
       In the meantime, you can visit our alternate domain: <Link href='https://aniplay.lol'>https://aniplay.lol</Link>
       </p> */}
